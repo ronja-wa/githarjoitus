@@ -1,0 +1,2 @@
+# githarjoitus
+Practicing using git
